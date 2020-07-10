@@ -11,4 +11,4 @@
   - Problem solving
   - Game development
 - 📫 You can reach me at zachary.lineman@gmail.com
-- 🔗 Checkout my portfolio - actuallyzach.github.io
+- 🔗 Checkout my [portfolio](http://actuallyzach.github.io)

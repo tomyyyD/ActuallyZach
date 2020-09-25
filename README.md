@@ -1,4 +1,3 @@
-### Hi there 👋
 <!--
 **ActuallyZach/ActuallyZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 !-->
@@ -7,9 +6,19 @@
 - 📱 I am currently working on an app named Jellycuts. You can check it out on my portfolio
   - Jellycuts is an app that allows you to write Siri Shortcuts with code all on your iPhone, no other device needed.
 - 🏅WWDC20 Swift Student Challenge winner
-- 💪 What are my strengths?
+<details>
+  <summary> 💪 What are my strengths?</summary>
+  
   - I am good at creating iOS apps in swift.
+  
   - UI/UX design
+
   - Problem solving
+
   - Game development
+</details>
+
+
 - 📫 You can reach me at zachary.lineman@gmail.com
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=onedark)

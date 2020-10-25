@@ -3,8 +3,9 @@
 !-->
 ### Hello my name is Zachary!
 - 🔗 Checkout my [portfolio](http://actuallyzach.github.io)
+- 🔗 Checkout [Jellycuts](http://Jellycuts.com)
 - 📱 I am currently working on an app named Jellycuts. You can check it out on my portfolio
-  - Jellycuts is an app that allows you to write Siri Shortcuts with code all on your iPhone, no other device needed.
+  - [Jellycuts](http://Jellycuts.com) is an app that allows you to write Siri Shortcuts with code all on your iPhone, no other device needed.
 - 🏅WWDC20 Swift Student Challenge winner
 <details>
   <summary> 💪 What are my strengths?</summary>
@@ -21,4 +22,4 @@
 
 - 📫 You can reach me at zachary.lineman@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=onedark)
+![ActuallyZachs's github stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=onedark)

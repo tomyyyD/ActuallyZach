@@ -11,11 +11,9 @@
   <summary> 💪 What are my strengths?</summary>
   
   - I am good at creating iOS apps in swift.
-  
+  - Web Development
   - UI/UX design
-
   - Problem solving
-
   - Game development
 </details>
 

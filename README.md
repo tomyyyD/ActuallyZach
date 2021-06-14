@@ -2,7 +2,7 @@
 **ActuallyZach/ActuallyZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 !-->
 ### Hello my name is Zachary!
-- 🔗 Checkout my [portfolio](http://actuallyzach.github.io)
+- 🔗 Checkout my [portfolio](http://actuallyzach.com)
 - 🔗 Checkout [Jellycuts](http://Jellycuts.com)
 - 📱 I am currently working on an app named Jellycuts. You can check it out on my portfolio
   - [Jellycuts](http://Jellycuts.com) is an app that allows you to write Siri Shortcuts with code all on your iPhone, no other device needed.

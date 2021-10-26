@@ -9,12 +9,20 @@
 - 🏅WWDC20 Swift Student Challenge winner
 <details>
   <summary> 💪 What are my strengths?</summary>
-  
-  - I am good at creating iOS apps in swift.
+  - iOS Developemnt
+    - Swift
+    - SwiftUI
+    - UIKit
   - Web Development
-  - UI/UX design
-  - Problem solving
-  - Game development
+    - Javascript
+    - Node JS
+      - Express.js
+    - Python + DJNAGO
+  - Language Development
+    - [The Jelly Language](https://jellycuts.com/docs]
+  - Game Development
+    - C++
+    - OpenGL
 </details>
 
 

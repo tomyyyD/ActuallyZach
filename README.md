@@ -21,7 +21,7 @@ I am currently working on an app named [Jellycuts](https://jellycuts.com). You c
       - Express.js
     - Python + DJNAGO
   - Language Development
-    - [The Jelly Language](https://jellycuts.com/docs]
+    - [The Jelly Language](https://jellycuts.com/docs)
   - Game Development
     - C++
     - OpenGL

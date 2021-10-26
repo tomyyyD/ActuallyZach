@@ -2,11 +2,10 @@
 **ActuallyZach/ActuallyZach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 !-->
 # Hello my name is Zachary!
-🔗 Checkout my [portfolio](https://actuallyzach.com)
+Checkout my [portfolio](https://actuallyzach.com)! This has all of my projects, new and old. It also includes my small blog.
 
-🔗 Checkout [Jellycuts](https://Jellycuts.com)
-
-📱 I am currently working on an app named [Jellycuts](https://jellycuts.com). You can check it out on my [portfolio](https://actuallyzach.com)
+I am currently working on an app named [Jellycuts](https://jellycuts.com). You can check it out on my [portfolio](https://actuallyzach.com)
+-  Checkout [Jellycuts](https://Jellycuts.com)
 
 ## 🏅 Awards
 - 🏅WWDC21 Swift Student Challenge winner
@@ -28,8 +27,8 @@
     - C++
     - OpenGL
 
-## Contact Me
+## Contact Me 🔗
 - 📫 You can reach me at zachary.lineman@gmail.com
 
-## Github Stats
+## GitHub Stats
 ![ActuallyZachs's github stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=radical)

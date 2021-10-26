@@ -20,4 +20,4 @@
 
 - 📫 You can reach me at zachary.lineman@gmail.com
 
-![ActuallyZachs's github stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=onedark)
+![ActuallyZachs's github stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=radical)

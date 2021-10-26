@@ -11,12 +11,12 @@ I am currently working on an app named [Jellycuts](https://jellycuts.com). You c
 - 🏅WWDC20 Swift Student Challenge winner
 
 ##  💪 What are my strengths?
-  - iOS Developemnt
+  - iOS Development
     - Swift
     - SwiftUI
     - UIKit
   - Web Development
-    - Javascript
+    - JavaScript
     - Node JS
       - Express.js
     - Python + DJNAGO
@@ -30,4 +30,4 @@ I am currently working on an app named [Jellycuts](https://jellycuts.com). You c
 - 📫 You can reach me at zachary.lineman@gmail.com
 
 ## GitHub Stats
-![ActuallyZachs's github stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=radical)
+![ActuallyZachs's GitHub stats](https://github-readme-stats.vercel.app/api?username=actuallyzach&show_icons=true&theme=radical)

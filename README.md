@@ -16,7 +16,7 @@ I am currently working on an app named [Jellycuts](https://jellycuts.com). You c
     - SwiftUI
     - UIKit
   - Web Development
-    - JavaScript
+    - HTML, CSS & JavaScript
     - Node JS
       - Express.js
     - Python + DJNAGO
@@ -25,6 +25,8 @@ I am currently working on an app named [Jellycuts](https://jellycuts.com). You c
   - Game Development
     - C++
     - OpenGL
+    - Unreal Engine
+    - Unity
 
 ## Contact Me 🔗
 - 📫 You can reach me at zachary.lineman@gmail.com

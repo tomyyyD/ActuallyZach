@@ -7,6 +7,7 @@ Checkout my [portfolio](https://actuallyzach.com)! This has all of my projects, 
 I am currently working on an app named [Jellycuts](https://jellycuts.com). You can check it out on my [portfolio](https://actuallyzach.com)
 
 ## 🏅 Awards
+- 🏅WWDC22 Swift Student Challenge winner
 - 🏅WWDC21 Swift Student Challenge winner
 - 🏅WWDC20 Swift Student Challenge winner
 

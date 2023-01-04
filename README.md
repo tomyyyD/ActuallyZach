@@ -20,7 +20,7 @@ I am currently working on an app named [Jellycuts](https://jellycuts.com). You c
     - HTML, CSS & JavaScript
     - Node JS
       - Express.js
-    - Python + DJNAGO
+    - Python + DJANGO
   - Language Development
     - [The Jelly Language](https://jellycuts.com/docs)
   - Game Development
